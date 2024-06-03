@@ -1,0 +1,19 @@
+body {
+	background-image: url(../img/Fon_tem.jpg);
+	background-size: cover;
+  }
+  
+.MetaSteel{
+	font-size:60px;
+	color:white;
+	margin-top:250px;
+
+	text-align:center;
+}
+
+.MetaSteel_tex{
+font-family: "Noto Sans", sans-serif;
+		text-align:center;
+		font-size: 60px;
+		color:white;
+}
